@@ -528,3 +528,9 @@
   letter-spacing: 1px;
   box-shadow: none;
 }
+
+.mail{
+  display: flex;
+  flex-direction: row;
+  
+}
